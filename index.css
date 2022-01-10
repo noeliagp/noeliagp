@@ -1,0 +1,1493 @@
+body {
+	margin: 0px;
+}
+
+#divSuperiorEscudos {
+	height: 70px;
+	position: relative;
+	width: 100%;
+}
+
+#Partidos {
+	height: 70px;
+	margin: 0px auto;
+	position: relative;
+	width: 1100px;
+}
+
+.tituloLiga {
+	background-color: #f2f2f2;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 55px;
+	padding-top: 15px;
+	text-align: center;
+	width: 110px;
+}
+
+#tituloLiga1 {
+	left: 0px;
+	position: absolute;
+	top: 0px;
+}
+
+#tituloLiga2 {
+	left: 555px;
+	position: absolute;
+	top: 0px;
+}
+
+.clasePartidos {
+	background-color: #FFFFFF;
+	height: 70px;
+	width: 109px;
+}
+
+#divpartido1 {
+	left: 111px;
+	position: absolute;
+	top: 0px;
+}
+
+#divpartido2 {
+	left: 222px;
+	position: absolute;
+	top: 0px;
+}
+
+#divpartido3 {
+	left: 333px;
+	position: absolute;
+	top: 0px;
+}
+
+#divpartido4 {
+	left: 444px;
+	position: absolute;
+	top: 0px;
+}
+
+#divpartido5 {
+	left: 666px;
+	position: absolute;
+	top: 0px;
+}
+
+#divpartido6 {
+	left: 777px;
+	position: absolute;
+	top: 0px;
+}
+
+#divpartido7 {
+	left: 888px;
+	position: absolute;
+	top: 0px;
+}
+
+#divpartido8 {
+	left: 999px;
+	position: absolute;
+	top: 0px;
+}
+
+.textoenjuego {
+	color: #ca0305;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	height: 15px;
+	left: 40px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 70px;
+}
+
+.fecha {
+	color: #cacaca;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	height: 15px;
+	left: 10px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 70px;
+}
+
+.hora {
+	color: #f6ae2b;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	height: 15px;
+	left: 55px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 70px;
+}
+
+.finalizado {
+	color: #cacaca;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	height: 15px;
+	left: 40px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 70px;
+}
+
+.escudo1 {
+	height: 25px;
+	left: 5px;
+	position: absolute;
+	text-align: center;
+	top: 15px;
+	width: 25px;
+}
+
+.escudo2 {
+	height: 25px;
+	left: 5px;
+	position: absolute;
+	text-align: center;
+	top: 45px;
+	width: 25px;
+}
+
+.nombreequipo1 {
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	height: 15px;
+	left: 40px;
+	position: absolute;
+	text-align: center;
+	top: 20px;
+	width: 30px;
+}
+
+.nombreequipo2 {
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	height: 15px;
+	left: 40px;
+	position: absolute;
+	text-align: center;
+	top: 45px;
+	width: 30px;
+}
+
+.resultado1 {
+	color: #ca0305;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 15px;
+	left: 80px;
+	position: absolute;
+	text-align: center;
+	top: 20px;
+	width: 30px;
+}
+
+.resultado2 {
+	color: #ca0305;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 15px;
+	left: 80px;
+	position: absolute;
+	text-align: center;
+	top: 45px;
+	width: 30px;
+}
+
+.sinresultado1 {
+	color: #474b4e;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 15px;
+	left: 80px;
+	position: absolute;
+	text-align: center;
+	top: 20px;
+	width: 30px;
+}
+
+.sinresultado2 {
+	color: #474b4e;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 15px;
+	left: 80px;
+	position: absolute;
+	text-align: center;
+	top: 45px;
+	width: 30px;
+}
+
+#divMenuRojo {
+	background-color: #ca0305;
+	height: 50px;
+	position: relative;
+	width: 100%;
+}
+
+#divbotonopciones {
+	background-color: #b71c1c;
+	height: 35px;
+	left: 0px;
+	padding-top: 15px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 50px;
+}
+
+#divbotonopciones:hover {
+	cursor: pointer;
+}
+
+#divlogo {
+	left: 70px;
+	position: absolute;
+	top: 10px;
+}
+
+.paginasmenusuperior {
+	color: #FFFFFF;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	position: absolute;
+	text-align: center;
+	text-decoration: none;
+	top: 0px;
+}
+
+.paginasmenusuperior:hover {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#divmenuresultados {
+	left: 150px;
+	position: absolute;
+	top: 15px;
+}
+
+#divmenufutbol {
+	left: 250px;
+	position: absolute;
+	top: 15px;
+}
+
+#divmenumotor {
+	left: 325px;
+	position: absolute;
+	top: 15px;
+}
+
+#divmenubaloncesto {
+	left: 400px;
+	position: absolute;
+	top: 15px;
+}
+
+#divmenutenis {
+	left: 500px;
+	position: absolute;
+	top: 15px;
+}
+
+#divmenuotraswebs {
+	left: 565px;
+	position: absolute;
+	top: 8px;
+}
+
+#divlogocamara {
+	left: 650px;
+	position: absolute;
+	top: 15px;
+}
+
+#divmenuopinion {
+	left: 750px;
+	position: absolute;
+	top: 15px;
+}
+
+#divmenuascolor {
+	left: 835px;
+	position: absolute;
+	top: 8px;
+}
+
+#divmenuqatar2022 {
+	left: 925px;
+	position: absolute;
+	top: 15px;
+}
+
+#divmenuesports {
+	left: 1040px;
+	position: absolute;
+	top: 15px;
+}
+
+#divContenidoFlotante {
+	background-color: #FFFFFF;
+	height: 1420px;
+	margin: 10px auto 20px auto;
+	position: relative;
+	width: 975px;
+}
+
+#divnoticia1 {
+	background-image: url("../img/noticia1.png");
+	height: 50px;
+	left: 0px;
+	padding-top: 245px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 645px;
+}
+
+.enlacenoticia1 {
+	color: #FFFFFF;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.enlacenoticia1:hover {
+	text-decoration: underline;
+}
+
+#partidoendirecto1 {
+	background-color: #f2f2f2;
+	height: 85px;
+	position: absolute;
+	top: 295px;
+	width: 645px;
+}
+
+#escudoequipo1 {
+	left: 0px;
+	position: absolute;
+	top: 0px;
+}
+
+#divnombreequipo1 {
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	height: 85px;
+	left: 65px;
+	padding-top: 25px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 185px;
+}
+
+#golesequipo1 {
+	background-color: #dd0305;
+	color: #FFFFFF;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	height: 40px;
+	left: 250px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 65px;
+}
+
+#golesequipo2 {
+	background-color: #dd0305;
+	color: #FFFFFF;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	height: 40px;
+	left: 315px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 65px;
+}
+
+#tiempopartido {
+	background-color: #ca0305;
+	color: #FFFFFF;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	height: 20px;
+	left: 250px;
+	position: absolute;
+	text-align: center;
+	top: 40px;
+	width: 130px;
+}
+
+#publicidadpartido {
+	background-color: #252850;
+	color: yellow;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	height: 25px;
+	left: 250px;
+	position: absolute;
+	text-align: center;
+	top: 60px;
+	width: 130px;
+}
+
+#divnombreequipo2 {
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	height: 85px;
+	left: 370px;
+	padding-top: 25px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 185px;
+}
+
+#escudoequipo2 {
+	left: 565px;
+	position: absolute;
+	top: 0px;
+}
+
+.clasedivpublicidad {
+	border: 1px solid #cacaca;
+	color: #cacaca;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.autor {
+	color: #000000;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	height: 20px;
+	left: 0px;
+	position: absolute;
+	top: 0px;
+	width: 150px;
+}
+
+.fechanoticia {
+	color: #cacaca;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	height: 15px;
+	left: 0px;
+	position: absolute;
+	top: 16px;
+	width: 70px;
+}
+
+.horanoticia {
+	color: #f6ae2b;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	height: 15px;
+	left: 75px;
+	position: absolute;
+	top: 16px;
+	width: 70px;
+}
+
+#autornoticia1 {
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	height: 35px;
+	left: 0px;
+	position: absolute;
+	top: 400px;
+	width: 150px;
+}
+
+#bocadillo {
+	background-image: url("../img/bocadillo.png");
+	background-repeat: no-repeat;
+	border: 1px solid #cacaca;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	height: 25px;
+	left: 545px;
+	padding-left: 5px;
+	position: absolute;
+	text-align: center;
+	top: 405px;
+	width: 50px;
+}
+
+#compartir1 {
+	border: 1px solid #cacaca;
+	height: 20px;
+	left: 600px;
+	padding-top: 5px;
+	position: absolute;
+	text-align: center;
+	top: 405px;
+	width: 25px;
+}
+
+#anuncio2 {
+	height: 60px;
+	left: 0px;
+	position: absolute;
+	top: 445px;
+	width: 645px;
+}
+
+#anuncio2foto {
+	left: 0px;
+	position: absolute;
+	top: 15px;
+}
+
+.claseequiposnombres {
+	color: #474b4e;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 12px;
+}
+
+.clasepienoticia {
+	color: black;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.clasepienoticia:hover {
+	text-decoration: underline;
+}
+
+#divpartido1peq {
+	height: 325px;
+	left: 0px;
+	position: absolute;
+	top: 525px;
+	width: 310px;
+}
+
+#divpartidofinalizadofoto {
+	background-image: url("../img/video2.png");
+	height: 175px;
+	left: 0px;
+	position: absolute;
+	top: 0px;
+	width: 310px;
+}
+
+#partidofinalizado {
+	background-color: #f2f2f2;
+	height: 85px;
+	position: absolute;
+	top: 175px;
+	width: 310px;
+}
+
+#divnombreequipo1finalizado {
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 20px;
+	left: 0px;
+	position: absolute;
+	text-align: center;
+	top: 65px;
+	width: 90px;
+}
+
+#escudoequipo1finalizado {
+	left: 35px;
+	padding-top: 5px;
+	position: absolute;
+}
+
+#marcador1finalizado {
+	background-color: green;
+	height: 85px;
+	left: 110px;
+	position: absolute;
+	width: 90px;
+}
+
+#golesequipo1finalizado {
+	background-color: #293133;
+	color: #FFFFFF;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	height: 35px;
+	left: 0px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 45px;
+}
+
+#golesequipo2finalizado {
+	background-color: #293133;
+	color: #FFFFFF;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	height: 35px;
+	left: 45px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 45px;
+}
+
+#tiempopartidofinalizado {
+	background-color: #828282;
+	color: #FFFFFF;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	height: 20px;
+	left: 0px;
+	position: absolute;
+	text-align: center;
+	top: 35px;
+	width: 90px;
+}
+
+#publicidadpartidofinalizado {
+	background-color: #252850;
+	color: yellow;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	height: 25px;
+	left: 0px;
+	padding-top: 5px;
+	position: absolute;
+	text-align: center;
+	top: 55px;
+	width: 90px;
+}
+
+#divnombreequipo2finalizado {
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 20px;
+	left: 210px;
+	position: absolute;
+	text-align: center;
+	top: 65px;
+	width: 90px;
+}
+
+#escudoequipo2finalizado {
+	left: 235px;
+	position: absolute;
+	top: 0px;
+}
+
+#nombresequipos1 {
+	height: 20px;
+	left: 0px;
+	position: absolute;
+	top: 280px;
+	width: 310px;
+}
+
+#pienoticia1 {
+	height: 25px;
+	left: 0px;
+	position: absolute;
+	top: 300px;
+	width: 310px;
+}
+
+#divpartido2peq {
+	height: 325px;
+	left: 335px;
+	position: absolute;
+	top: 525px;
+	width: 310px;
+}
+
+#divpartidodescansofoto {
+	background-image: url("../img/noticia2.png");
+	height: 175px;
+	left: 0px;
+	position: absolute;
+	top: 0px;
+	width: 310px;
+}
+
+#partidodescanso {
+	background-color: #f2f2f2;
+	height: 85px;
+	position: absolute;
+	top: 175px;
+	width: 310px;
+}
+
+#divnombreequipo1descanso {
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 20px;
+	left: 10px;
+	position: absolute;
+	text-align: center;
+	top: 65px;
+	width: 90px;
+}
+
+#escudoequipo1descanso {
+	left: 30px;
+	padding-top: 5px;
+	position: absolute;
+}
+
+#marcador1descanso {
+	height: 85px;
+	left: 110px;
+	position: absolute;
+	width: 90px;
+}
+
+#golesequipo1descanso {
+	background-color: #dd0305;
+	color: #FFFFFF;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	height: 35px;
+	left: 0px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 45px;
+}
+
+#golesequipo2descanso {
+	background-color: #dd0305;
+	color: #FFFFFF;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	height: 35px;
+	left: 45px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 45px;
+}
+
+#tiempopartidodescanso {
+	background-color: #ca0305;
+	color: #FFFFFF;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	height: 20px;
+	left: 0px;
+	position: absolute;
+	text-align: center;
+	top: 35px;
+	width: 90px;
+}
+
+#publicidadpartidodescanso {
+	background-color: #252850;
+	color: yellow;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	height: 25px;
+	left: 0px;
+	padding-top: 5px;
+	position: absolute;
+	text-align: center;
+	top: 55px;
+	width: 90px;
+}
+
+#divnombreequipo2descanso {
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 20px;
+	left: 210px;
+	position: absolute;
+	text-align: center;
+	top: 65px;
+	width: 90px;
+}
+
+#escudoequipo2descanso {
+	left: 235px;
+	position: absolute;
+	top: 0px;
+}
+
+#nombresequipos2 {
+	height: 20px;
+	left: 0px;
+	position: absolute;
+	top: 280px;
+	width: 310px;
+}
+
+#pienoticia2 {
+	height: 25px;
+	left: 0px;
+	position: absolute;
+	top: 300px;
+	width: 310px;
+}
+
+#anuncio1 {
+	height: 120px;
+	left: 665px;
+	position: absolute;
+	top: 0px;
+	width: 309px;
+}
+
+#anuncio1foto {
+	left: 5px;
+	position: absolute;
+	top: 15px;
+}
+
+#video1 {
+	height: 217px;
+	left: 665px;
+	position: absolute;
+	top: 135px;
+	width: 310px;
+}
+
+#titular1 {
+	height: 95px;
+	left: 665px;
+	position: absolute;
+	top: 352px;
+	width: 310px;
+}
+
+.enlacetitular1 {
+	color: black;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.enlacetitular1:hover {
+	text-decoration: underline;
+}
+
+#autornoticia2 {
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	height: 35px;
+	left: 665px;
+	position: absolute;
+	top: 455px;
+	width: 150px;
+}
+
+#compartir2 {
+	border: 1px solid #cacaca;
+	height: 20px;
+	left: 938px;
+	padding-top: 5px;
+	position: absolute;
+	text-align: center;
+	top: 455px;
+	width: 25px;
+}
+
+#anuncio3 {
+	height: 390px;
+	left: 665px;
+	position: absolute;
+	top: 500px;
+	width: 309px;
+}
+
+#anuncio3foto {
+	left: 5px;
+	position: absolute;
+	top: 15px;
+}
+
+#divcontenidoinferior {
+	background-color: f2f2f2;
+	border-top: 3px solid #cacaca;
+	height: 520px;
+	left: 0px;
+	position: absolute;
+	top: 900px;
+	width: 100%;
+}
+
+.menunombreligaselecionado {
+	border-bottom: 5px solid orange;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.menunombreliganoselecionado {
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 17px;
+}
+
+.menunombreliganoselecionado:hover {
+	border-bottom: 5px solid orange;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#laligasantander {
+	border-right: 2px solid #cacaca;
+	height: 25px;
+	left: 0px;
+	padding-top: 15px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 160px;
+}
+
+#laligasmartbank {
+	border-right: 2px solid #cacaca;
+	height: 25px;
+	left: 162px;
+	padding-top: 15px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 160px;
+}
+
+#champions {
+	border-right: 2px solid #cacaca;
+	height: 25px;
+	left: 324px;
+	padding-top: 15px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 160px;
+}
+
+#europaleague {
+	border-right: 2px solid #cacaca;
+	height: 25px;
+	left: 486px;
+	padding-top: 15px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 160px;
+}
+
+#premier {
+	border-right: 2px solid #cacaca;
+	height: 25px;
+	left: 642px;
+	padding-top: 15px;
+	position: absolute;
+	text-align: center;
+	top: 0px;
+	width: 160px;
+}
+
+#jornada1clasificacion {
+	height: 50px;
+	left: 0px;
+	position: absolute;
+	text-align: center;
+	top: 50px;
+	width: 100px;
+}
+
+.jornadas {
+	color: #474b4e;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 17px;
+}
+
+#tablaclasificacion {
+	background-color: #FFFFFF;
+	height: 364px;
+	left: 0px;
+	position: absolute;
+	top: 90px;
+	width: 300px;
+}
+
+td {
+	border: 1px solid #cacaca;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 17px;
+	text-align: center;
+}
+
+.numerotablaclasificacion1 {
+	border-right: none;
+	color: #cacaca;
+	text-align: center;
+}
+
+.nombresceldasclasificacion {
+	border-left: none;
+	text-align: left;
+}
+
+.celdaptstablaclasificacion1 {
+	background-color: orange;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.ptstablaclasificacion1 {
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#jornada1resultados {
+	height: 50px;
+	left: 350px;
+	position: absolute;
+	text-align: center;
+	top: 50px;
+	width: 100px;
+}
+
+#tablaresultados {
+	background-color: #FFFFFF;
+	height: 355px;
+	left: 350px;
+	position: absolute;
+	top: 90px;
+	width: 300px;
+}
+
+.nombresresultadoizq {
+	text-align: right;
+}
+
+.nombresresultadoder {
+	text-align: left;
+}
+
+.partidoterminadotabla {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.partidojugandotabla {
+	background-color: #ff0000;
+	color: #ffffff;
+}
+
+.partidoprevistotabla {
+	background-color: orange;
+	color: #ffffff;
+}
+
+.funcionbotones {
+	background-color: #1c1c1c;
+	color: #FFFFFF;
+	height: 25px;
+	padding-top: 5px;
+	text-align: center;
+	width: 170px;
+}
+
+.funcionbotones:hover {
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#clasificacioncompleta {
+	left: 130px;
+	position: absolute;
+	top: 470px;
+}
+
+#todoslosresultados {
+	left: 480px;
+	position: absolute;
+	top: 465px;
+}
+
+#desplegable {
+	background-color: #FFFFFF;
+	height: 35px;
+	left: 750px;
+	position: absolute;
+	top: 60px;
+	width: 200px;
+}
+
+#correo {
+	background-color: #FFFFFF;
+	border-bottom: 4px solid #cacaca;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 180px;
+	left: 670px;
+	position: absolute;
+	top: 150px;
+	width: 280px;
+}
+
+#correoelectronico {
+	border-bottom: 4px solid #cacaca;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 40px;
+	left: 10px;
+	position: absolute;
+	top: 30px;
+	width: 260px;
+}
+
+#botonsiguiente {
+	background-color: #00aae4;
+	color: #FFFFFF;
+	font-size: 15px;
+	height: 40px;
+	left: 10px;
+	position: absolute;
+	top: 80px;
+	width: 260px;
+}
+
+.botonsiguiente:hover {
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#crearcuenta {
+	height: 30px;
+	left: 10px;
+	position: absolute;
+	text-align: center;
+	top: 125px;
+	width: 260px;
+}
+
+#crearventajaascuenta {
+	height: 30px;
+	left: 10px;
+	position: absolute;
+	text-align: center;
+	top: 150px;
+	width: 260px;
+}
+
+#divParteInferior {
+	background-color: #3c3c3c;
+	height: 175px;
+	position: relative;
+	width: 100%;
+}
+
+#divcontenedorparteinferior {
+	height: 180px;
+	margin: 0px auto;
+	position: relative;
+	width: 975px;
+}
+
+#edicionesinternacionales {
+	background-color: #3c3c3c;
+	border-bottom: 3px solid orange;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-weight: bold;
+	height: 25px;
+	left: 10px;
+	padding-top: 5px;
+	position: absolute;
+	top: 0px;
+	width: 400px;
+}
+
+#mundo1 {
+	height: 22px;
+	left: 10px;
+	position: absolute;
+	top: 50px;
+	width: 14px;
+}
+
+#asespana {
+	color: #FFFFFF;
+	height: 22px;
+	left: 35px;
+	position: absolute;
+	top: 50px;
+	width: 80px;
+}
+
+#mundo2 {
+	height: 22px;
+	left: 10px;
+	position: absolute;
+	top: 80px;
+	width: 14px;
+}
+
+#asmexico {
+	color: #FFFFFF;
+	height: 22px;
+	left: 35px;
+	position: absolute;
+	top: 80px;
+	width: 80px;
+}
+
+#mundo3 {
+	height: 22px;
+	left: 150px;
+	position: absolute;
+	top: 50px;
+	width: 14px;
+}
+
+#aschile {
+	color: #FFFFFF;
+	height: 22px;
+	left: 180px;
+	position: absolute;
+	top: 50px;
+	width: 80px;
+}
+
+#mundo4 {
+	height: 22px;
+	left: 150px;
+	position: absolute;
+	top: 80px;
+	width: 14px;
+}
+
+#asusa {
+	color: #FFFFFF;
+	height: 22px;
+	left: 180px;
+	position: absolute;
+	top: 80px;
+	width: 80px;
+}
+
+#mundo5 {
+	height: 22px;
+	left: 270px;
+	position: absolute;
+	top: 50px;
+	width: 14px;
+}
+
+#ascolombia {
+	color: #FFFFFF;
+	height: 22px;
+	left: 300px;
+	position: absolute;
+	top: 50px;
+	width: 90px;
+}
+
+#mundo6 {
+	height: 22px;
+	left: 270px;
+	position: absolute;
+	top: 80px;
+	width: 14px;
+}
+
+#asargentina {
+	color: #FFFFFF;
+	height: 22px;
+	left: 300px;
+	position: absolute;
+	top: 80px;
+	width: 90px;
+}
+
+#apps {
+	background-color: #3c3c3c;
+	border-bottom: 3px solid orange;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-weight: bold;
+	height: 25px;
+	left: 420px;
+	padding-top: 5px;
+	position: absolute;
+	top: 0px;
+	width: 100px;
+}
+
+#appsdeas {
+	color: #FFFFFF;
+	font-size: 18px;
+	height: 25px;
+	left: 420px;
+	position: absolute;
+	top: 50px;
+	width: 100px;
+}
+
+#siguenos {
+	background-color: #3c3c3c;
+	border-bottom: 3px solid orange;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-weight: bold;
+	height: 25px;
+	left: 550px;
+	padding-top: 5px;
+	position: absolute;
+	top: 0px;
+	width: 350px;
+}
+
+#facebook {
+	height: 25px;
+	left: 550px;
+	position: absolute;
+	top: 45px;
+	width: 100px;
+}
+
+#twitter {
+	height: 25px;
+	left: 580px;
+	position: absolute;
+	top: 50px;
+	width: 100px;
+}
+
+#youtube {
+	height: 25px;
+	left: 620px;
+	position: absolute;
+	top: 50px;
+	width: 100px;
+}
+
+#instagram {
+	height: 25px;
+	left: 660px;
+	position: absolute;
+	top: 45px;
+	width: 100px;
+}
+
+#divmenuinferior {
+	background-color: #3c3c3c;
+	border-bottom: 1px solid #cacaca;
+	border-top: 1px solid #cacaca;
+	height: 40px;
+	position: absolute;
+	top: 120px;
+	width: 973px;
+}
+
+.paginasmenuinferior {
+	color: #FFFFFF;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 12px;
+	padding: 12px;
+	position: absolute;
+	text-align: center;
+}
+
+#divmenucontacto {
+	left: 20px;
+	top: 0px;
+}
+
+#divmenuavisolegal {
+	left: 120px;
+	top: 0px;
+}
+
+#divmenupoliticaprivacidad {
+	left: 230px;
+	top: 0px;
+}
+
+#divmenupoliticacookies {
+	left: 400px;
+	top: 0px;
+}
+
+#divmenupublicidad {
+	left: 550px;
+	top: 0px;
+}
+
+#divmenucondiciones {
+	left: 655px;
+	top: 0px;
+}
+
+.estilopiedepagina {
+	background-color: #f2f2f2;
+	font-family: 'Readex Pro', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	padding-top: 30px;
+	text-align: center;
+}
+
+#divPiedePagina {
+	background-color: #ca0305;
+	height: 50px;
+	position: relative;
+	width: 100%;
+}
